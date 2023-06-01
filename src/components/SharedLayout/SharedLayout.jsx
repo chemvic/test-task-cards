@@ -15,7 +15,7 @@ const SharedLayout =( ) => {
                   <NavLink to="/" style={({ isActive }) =>({color: isActive ? '#5CD3A8' : '#EBD8FF'})}>Home</NavLink>
         </li>
         <li  className={css.link}>
-                  <NavLink to="/movies" style={({ isActive }) =>({color: isActive ? '#5CD3A8' : '#EBD8FF'})}>Tweet cards</NavLink>
+                  <NavLink to="/tweets" style={({ isActive }) =>({color: isActive ? '#5CD3A8' : '#EBD8FF'})}>Tweet cards</NavLink>
         </li>
       </nav>
         </header>
