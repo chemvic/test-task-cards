@@ -2,6 +2,8 @@
   "name": "test-task-cards",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chemvic.github.io/test-task-cards/",
+
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
