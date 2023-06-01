@@ -8,18 +8,18 @@ const SharedLayout =( ) => {
 
     return(
         <>
-        <div className={css.container}>
+        <div >
           <header className={css.header}>
              <nav className={css.nav}>
         <li  className={css.link}>
-                  <NavLink to="/" style={({ isActive }) =>({color: isActive ? 'green' : 'blue'})}>Home</NavLink>
+                  <NavLink to="/" style={({ isActive }) =>({color: isActive ? '#5CD3A8' : '#EBD8FF'})}>Home</NavLink>
         </li>
         <li  className={css.link}>
-                  <NavLink to="/movies" style={({ isActive }) =>({color: isActive ? 'green' : 'blue'})}>Movies</NavLink>
+                  <NavLink to="/movies" style={({ isActive }) =>({color: isActive ? '#5CD3A8' : '#EBD8FF'})}>Tweet cards</NavLink>
         </li>
       </nav>
         </header>
-        
+
         </div>      
         
         <main>
