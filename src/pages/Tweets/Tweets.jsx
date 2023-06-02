@@ -74,14 +74,14 @@ import Card from 'components/Card';
      "followers": 39,
      "id": "9"
     },
-    {
-     "createdAt": "2023-06-01T00:25:38.258Z",
-     "user": "Marianne Stehr",
-     "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/71.jpg",
-     "tweets": 62,
-     "followers": 34,
-     "id": "10"
-    },
+//     {
+//      "createdAt": "2023-06-01T00:25:38.258Z",
+//      "user": "Marianne Stehr",
+//      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/71.jpg",
+//      "tweets": 62,
+//      "followers": 34,
+//      "id": "10"
+//     },
     {
      "createdAt": "2023-06-01T13:31:32.439Z",
      "user": "Jeffrey Maggio",
