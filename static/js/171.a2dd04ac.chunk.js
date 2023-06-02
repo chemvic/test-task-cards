@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_task_cards=self.webpackChunktest_task_cards||[]).push([[171],{171:function(e,s,t){t.r(s),t.d(s,{default:function(){return r}});var a="Home_container__kPwgm",c="Home_title__UxG0s",n=t(184),r=function(){return(0,n.jsx)("div",{className:a,children:(0,n.jsx)("p",{className:c,children:"Tweet cards welcome page "})})}}}]);
+//# sourceMappingURL=171.a2dd04ac.chunk.js.map

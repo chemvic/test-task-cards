@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_task_cards=self.webpackChunktest_task_cards||[]).push([[871],{871:function(s,t,e){e.r(t),e.d(t,{default:function(){return u}});var n="NotFound_message__oUSVE",a=e(184),u=function(){return(0,a.jsx)("div",{className:n,children:(0,a.jsx)("h1",{children:"Page on this path not found"})})}}}]);
+//# sourceMappingURL=871.abd7bc73.chunk.js.map
